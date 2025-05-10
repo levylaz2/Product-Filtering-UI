@@ -1,4 +1,4 @@
-const products = [
+ const products = [
     {
         name: 'Sony Playstation 5',
         url: './images/playstation_5.png',
@@ -175,4 +175,5 @@ function filterProducts() {
         productElement.classList.add('hidden');
       }
     });
-  }
+  } 
+
